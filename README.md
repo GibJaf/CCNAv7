@@ -20,5 +20,6 @@ at my earliest convenience.
 
 If you like this repo or find it useful, don't hesitate to leave a star.
 
-You can contact me at
-gibjaf@gmail.com
+You can contact me at :
+1) gibjaf@gmail.com 
+2) gibraan.jafar@viit.ac.in
