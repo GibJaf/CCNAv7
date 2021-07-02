@@ -29,7 +29,7 @@ You can contact me at :
 
 <object data="https://github.com/GibJaf/CCNAv7/blob/master/Certificates/CCNAv7_Module1_Certificate.pdf" type="application/pdf" width="700px" height="700px">
     <embed src="https://github.com/GibJaf/CCNAv7/blob/master/Certificates/CCNAv7_Module1_Certificate.pdf">
-                <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://docs.google.com/viewer?url="https://raw.githubusercontent.com/GibJaf/CCNAv7/eb31a13e58e8006883799a6d66af12239d22134f/Certificates/CCNAv7_Module1_Certificate.pdf">Download PDF</a>.</p>
+                <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://docs.google.com/viewer?url=https://raw.githubusercontent.com/GibJaf/CCNAv7/eb31a13e58e8006883799a6d66af12239d22134f/Certificates/CCNAv7_Module1_Certificate.pdf">Download PDF</a>.</p>
     </embed>
 </object>
 
